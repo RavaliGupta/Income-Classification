@@ -5,4 +5,5 @@ In this projects,I collected some california Census Data and try to use various 
 Data was first analysed to first identify the important features for classification using seaborn and matplotlib. Once important features are identified, they are converted to feature_columns to support the Estimator models.
 I have used the Estimator API of Tensorflow to predict the Income class of each invidual. Along with that compared the results of the two models i.e,, Linear and Dense Neural Network.
 
-To view the notebook click here: https://github.com/RavaliGupta/Income-Classification/blob/master/California%20census%20data.ipynb
+To view the notebook click here: 
+http://nbviewer.jupyter.org/github/RavaliGupta/Income-Classification/blob/master/California%20census%20data.ipynb
